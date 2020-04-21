@@ -1,4 +1,4 @@
 #!/bin/bash
-
-echo " i love mutton "
+ 
+echo " i love you "
 
