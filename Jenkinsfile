@@ -11,7 +11,7 @@ node {
         }
        stage ( " Deploy " )
        {
-        sh " echo ' i like to travel ' "
+        sh " echo ' i like to eat ' "
        }
 }
 
