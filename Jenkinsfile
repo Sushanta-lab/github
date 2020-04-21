@@ -1,10 +1,13 @@
 node {
-	stage('Test')
-	{
-		sh "echo 'Hello World'"
-	}
-	stage('Build')
-	{
-		sh "echo 'Sushanta is swt boy'"
-	}
+
+       stage ( " Build " )
+       {
+         sh " echo 'trina is good' "
+        }
+
+        stage ( " Test " )
+         {
+           sh "echo 'sushanta is good' "
+        }
 }
+

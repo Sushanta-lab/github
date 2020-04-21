@@ -1,3 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 
-echo "Printing from shell script"
+echo " i love mutton "
+
