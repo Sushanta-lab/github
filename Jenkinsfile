@@ -9,5 +9,9 @@ node {
          {
            sh "echo 'sushanta is good' "
         }
+       stage ( " Deploy " )
+       {
+        sh " echo ' i like to travel ' "
+       }
 }
 
