@@ -2,7 +2,7 @@ node {
 
        stage ( " Build " )
        {
-         sh " echo 'trina is good' "
+         sh " echo 'sushanta  is bad' "
         }
 
         stage ( " Test " )
