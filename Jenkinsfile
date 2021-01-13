@@ -2,16 +2,16 @@ node {
 
        stage ( " Build " )
        {
-         sh " echo 'sachin  is nice' "
+         sh " echo 'hrithik  is nice' "
         }
 
         stage ( " Test " )
          {
-           sh "echo 'sachin  is awesome' "
+           sh "echo 'hrithik  is awesome' "
         }
        stage ( " Deploy " )
        {
-        sh " echo ' sachin  like to cool ' "
+        sh " echo ' hrithik like to cool ' "
        }
 }
 
