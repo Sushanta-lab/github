@@ -2,16 +2,16 @@ node {
 
        stage ( " Build " )
        {
-         sh " echo 'katrina  is nice' "
+         sh " echo 'red' "
         }
 
         stage ( " Test " )
          {
-           sh "echo 'hrithik  is awesome' "
+           sh "echo 'black' "
         }
        stage ( " Deploy " )
        {
-        sh " echo ' hrithik like to cool ' "
+        sh " echo ' white ' "
        }
 }
 
